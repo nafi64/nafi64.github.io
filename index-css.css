@@ -1,0 +1,11 @@
+h1 {font-family: courier new}
+li {background-color: lightpink}
+h1 {outline-style: double;
+	outline-color: lightgreen}
+img {display: block; margin-left: 
+	auto; width: 50%;}
+img {border: 1px solid #add; 
+	border-radius: 4px; padding: 
+	5px; width: 300px border-color; black}
+blockquote {background-color: violet}
+body {background-image: url("b.jpeg")}
